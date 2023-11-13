@@ -15,12 +15,12 @@
 ## Projects
 ### [DICA](https://github.com/AungKhantOo99/dica)
 
-My very first real world project base on DICA book to donate DICA team and this project Include API call , see all of DICA office in google map.
+My very first real world project base on DICA book to donate DICA team.
 
 
 ### [E-Commerce](https://github.com/AungKhantOo99/ecommerce)
 
-My intern ship second project but this project cannot complete 100% because my internship periodis over.It include only filterable and other feature
+My internship second project but this project cannot complete 100% because my internship periodis over.It include only filterable and other feature
 
 
 ### [Hide My Video](https://github.com/AungKhantOo99/HideMyVideo)
