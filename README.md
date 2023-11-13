@@ -6,11 +6,11 @@
 - B.C.Sc | University of Computer Studies (Taungoo)(2016 – 2020)
 
 ## Work Experience
-**Mobile Developer(March 2023 – Present)**
+**Mobile Developer | Securelink (March 2023 – Present)**
 
-**Android Developer(June 2020 – August 2020)**
+**Android Developer | Myanmar Media Linkage(Office Diarry) (June 2022 – February 2023)**
 
-**Android Developer(June 2022 – February 2023)**
+**Android Developer | Legend Myanmar Techanology (June 2020 – August 2020)**
 
 ## Projects
 ### [DICA](https://github.com/AungKhantOo99/dica)
